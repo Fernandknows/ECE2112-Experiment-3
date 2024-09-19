@@ -1,4 +1,4 @@
-# EXP2 - Numerical Python <br/> *Christian Justin M. Fernando | 2ECE-B | ECE2112*
+# EXP3 - Python Data Analysis <br/> *Christian Justin M. Fernando | 2ECE-B | ECE2112*
 Hello! This repository contains Python codes I made for my ECE2112 course, particularly for Experiment #3. <br/><br/> 
 # For experiment #3 the **instructions** are:
 
